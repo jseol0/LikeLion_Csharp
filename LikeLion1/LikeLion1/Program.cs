@@ -10,7 +10,13 @@ namespace LikeLion1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("clone test");
+            int globalVar = 10; // 전역 변수
+            void DisplayVariables()
+            {
+                int localVar = 5; // 지역 변수
+                Console.WriteLine($"Global: {globalVar}, Local: {localVar}");
+            }
+            DisplayVariables();
         }
     }
 }
