@@ -209,16 +209,67 @@ namespace LikeLion1
             */
 
 
-            // 래퍼 형식의 메서드 활용
+            // wrapper 형식의 메서드 활용
             //래퍼 형식은 기본 데이터 형식을 클래스 형태로 감싸서 객체로 취급할 수 있게 한다
             //int number = 123;
             //string numberAsString = number.ToString();
 
             //bool flag = true;
             //string flagAsString = flag.ToString();
-            
+
             //Console.WriteLine($"{numberAsString} {numberAsString.GetType()}");
             //Console.WriteLine($"{flagAsString} {flagAsString.GetType()}");
+
+
+            //문자열 입력
+            //Console.ReadLine();
+            //Console.Write("이름을 입력하세요 : ");
+            //string userName = Console.ReadLine();
+            //Console.WriteLine($"안녕하세요, {userName}님");
+
+            //Console.Write("나이를 입력하세요 : ");
+            //int age = int.Parse( Console.ReadLine() );
+            //Console.WriteLine($"내년에는 {age + 1}살이 되겠군요");
+
+            /* 스테이터스 입력받아 출력하기
+            Console.WriteLine("정보를 입력해 주세요");
+            Console.Write("루인 스킬 피해 : ");
+            double input1 = double.Parse(Console.ReadLine());
+            Console.Write("카드 게이지 획득량 : ");
+            double input2 = double.Parse(Console.ReadLine());
+            Console.Write("각성기 피해 : ");
+            double input3 = double.Parse(Console.ReadLine());
+            Console.Write("최대 마나 : ");
+            int input4 = int.Parse(Console.ReadLine());
+            Console.Write("전투 중 마나 회복량 : ");
+            int input5 = int.Parse(Console.ReadLine());
+            Console.Write("비전투 중 마나 회복량 : ");
+            int input6 = int.Parse(Console.ReadLine());
+            Console.Write("이동 속도 : ");
+            double input7 = double.Parse(Console.ReadLine());
+            Console.Write("탈 것 속도 : ");
+            double input8 = double.Parse(Console.ReadLine());
+            Console.Write("운반 속도 : ");
+            double input9 = double.Parse(Console.ReadLine());
+            Console.Write("스킬 재사용 대기시간 감소 : ");
+            double input10 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine();
+
+            Console.WriteLine("활동");
+            Console.WriteLine($"루인 스킬 피해 : {input1}%");
+            Console.WriteLine($"카드 게이지 획득량 : {input2}%");
+            Console.WriteLine($"각성기 피해 : {input3}%");
+            Console.WriteLine($"최대 마나 : {input4}");
+            Console.WriteLine($"전투 중 마나 회복량 : {input5}");
+            Console.WriteLine($"비전투 중 마나 회복량 : {input6}");
+            Console.WriteLine($"이동 속도 : {input7:F1}%");
+            Console.WriteLine($"탈 것 속도 : {input8:F1}%");
+            Console.WriteLine($"운반 속도 : {input9:F1}%");
+            Console.WriteLine($"스킬 재사용 대기시간 감소 : {input10}%");
+            */
+
+
         }
     }
 }
