@@ -127,6 +127,62 @@ namespace LikeLion2
             //Console.WriteLine("캐릭터 : 멋사검존");
             //Console.WriteLine($"무기 : {weapon}");
             //Console.WriteLine($"공격력 : 100 + {att}");
+
+            //1
+            int x, y, z;
+            Console.WriteLine("세 정수를 입력하세요");
+            x = int.Parse(Console.ReadLine());
+            y = int.Parse(Console.ReadLine());
+            z = int.Parse(Console.ReadLine());
+
+            int max = x > y ? (x > z ? x : y > z ? y : z) : (y > z ? y : x > z ? x : z);
+            Console.WriteLine($"최대값 : {max}");
+
+            //2
+            Console.WriteLine("점수를 입력하세요");
+            int input = int.Parse(Console.ReadLine());
+
+            if (input > 90)
+                Console.WriteLine("A");
+            else if (input > 80)
+                Console.WriteLine("B");
+            else if (input > 70)
+                Console.WriteLine("C");
+            else if (input > 60)
+                Console.WriteLine("D");
+            else 
+                Console.WriteLine("F");
+
+            //3
+            double a, b;
+            string opt;
+            double result;
+            Console.Write("숫자1 을 입력하세요 : ");
+            a = double.Parse(Console.ReadLine());
+            Console.Write("숫자2 을 입력하세요 : ");
+            b = double.Parse(Console.ReadLine());
+            Console.Write("연산자를 입력하세요 : ");
+            opt = Console.ReadLine();
+
+            if (opt == "+")
+                result = a + b;
+            else if (opt == "-")
+                result = a - b;
+            else if (opt == "*")
+                result = a * b;
+            else if (opt == "/")
+            {
+                if (b == 0)
+                    Console.WriteLine("0 으로는 나눌 수 없습니다.");
+                result = a / b;
+            }
+            else {
+                Console.WriteLine("잘못된 연산자를 입력했습니다.");
+                return;
+            }
+            
+            if (!(opt == "/" && b == 0))
+                Console.WriteLine($"결과 : {result}");
         }
     }
 }
