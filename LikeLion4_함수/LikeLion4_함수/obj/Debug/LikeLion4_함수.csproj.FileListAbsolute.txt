@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\LikeLion4_함수\LikeLion4_함수\bin\Debug\LikeLion4_함수.exe.config
+C:\Users\wodb0\LikeLion\LikeLion4_함수\LikeLion4_함수\bin\Debug\LikeLion4_함수.exe
+C:\Users\wodb0\LikeLion\LikeLion4_함수\LikeLion4_함수\bin\Debug\LikeLion4_함수.pdb
+C:\Users\wodb0\LikeLion\LikeLion4_함수\LikeLion4_함수\obj\Debug\LikeLion4_함수.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\LikeLion4_함수\LikeLion4_함수\obj\Debug\LikeLion4_함수.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\LikeLion4_함수\LikeLion4_함수\obj\Debug\LikeLion4_함수.exe
+C:\Users\wodb0\LikeLion\LikeLion4_함수\LikeLion4_함수\obj\Debug\LikeLion4_함수.pdb

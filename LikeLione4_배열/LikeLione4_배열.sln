@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeLione4_배열", "250226_LikeLione4\LikeLione4_배열.csproj", "{8CBBE92A-B7C3-42DE-BF04-EC4AFE9A132F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBBE92A-B7C3-42DE-BF04-EC4AFE9A132F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBBE92A-B7C3-42DE-BF04-EC4AFE9A132F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBBE92A-B7C3-42DE-BF04-EC4AFE9A132F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBBE92A-B7C3-42DE-BF04-EC4AFE9A132F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F7B1F5-E28B-45B7-887A-DEF03CB72BA4}
+	EndGlobalSection
+EndGlobal
