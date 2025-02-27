@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\LikeLion5_class\LikeLion5_class\bin\Debug\LikeLion5_class.exe.config
+C:\Users\wodb0\LikeLion\LikeLion5_class\LikeLion5_class\bin\Debug\LikeLion5_class.exe
+C:\Users\wodb0\LikeLion\LikeLion5_class\LikeLion5_class\bin\Debug\LikeLion5_class.pdb
+C:\Users\wodb0\LikeLion\LikeLion5_class\LikeLion5_class\obj\Debug\LikeLion5_class.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\LikeLion5_class\LikeLion5_class\obj\Debug\LikeLion5_class.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\LikeLion5_class\LikeLion5_class\obj\Debug\LikeLion5_class.exe
+C:\Users\wodb0\LikeLion\LikeLion5_class\LikeLion5_class\obj\Debug\LikeLion5_class.pdb

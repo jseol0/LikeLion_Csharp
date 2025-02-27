@@ -88,6 +88,13 @@ namespace LikeLion5
             return n * Factorial(n - 1);
         }
 
+        //화살표 함수 => 람다 표현식 이라고도 하며
+        //간결한 방식으로 함수를 정의할 수 있다.
+        static int Add1(int a, int b) {
+            return a + b;
+        }
+
+        static int Add2(int a, int b) => a + b;
 
         static void Main(string[] args)
         {
@@ -106,6 +113,9 @@ namespace LikeLion5
             Console.WriteLine(value);
 
             Console.WriteLine(Sum(1, 2, 3));
+
+            Console.WriteLine(Add1(3, 5));
+            Console.WriteLine(Add2(3, 5));
         }
     }
 }
