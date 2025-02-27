@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\LikeLion5_ShootingGame1\LikeLion5_ShootingGame1\bin\Debug\LikeLion5_ShootingGame1.exe.config
+C:\Users\wodb0\LikeLion\LikeLion5_ShootingGame1\LikeLion5_ShootingGame1\bin\Debug\LikeLion5_ShootingGame1.exe
+C:\Users\wodb0\LikeLion\LikeLion5_ShootingGame1\LikeLion5_ShootingGame1\bin\Debug\LikeLion5_ShootingGame1.pdb
+C:\Users\wodb0\LikeLion\LikeLion5_ShootingGame1\LikeLion5_ShootingGame1\obj\Debug\LikeLion5_ShootingGame1.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\LikeLion5_ShootingGame1\LikeLion5_ShootingGame1\obj\Debug\LikeLion5_ShootingGame1.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\LikeLion5_ShootingGame1\LikeLion5_ShootingGame1\obj\Debug\LikeLion5_ShootingGame1.exe
+C:\Users\wodb0\LikeLion\LikeLion5_ShootingGame1\LikeLion5_ShootingGame1\obj\Debug\LikeLion5_ShootingGame1.pdb
