@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{03B31D47-0946-4F07-B35F-A8AA8867C1F9}</ProjectGuid>
+    <ProjectGuid>{B549A30F-1A51-4293-9A00-45856A0C364D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LikeLion6_2</RootNamespace>
-    <AssemblyName>LikeLion6_2</AssemblyName>
+    <RootNamespace>ShootingGame</RootNamespace>
+    <AssemblyName>ShootingGame</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

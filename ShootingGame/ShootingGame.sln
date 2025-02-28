@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeLion6_2", "LikeLion6_2\LikeLion6_2.csproj", "{03B31D47-0946-4F07-B35F-A8AA8867C1F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootingGame", "ShootingGame\ShootingGame.csproj", "{B549A30F-1A51-4293-9A00-45856A0C364D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03B31D47-0946-4F07-B35F-A8AA8867C1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03B31D47-0946-4F07-B35F-A8AA8867C1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03B31D47-0946-4F07-B35F-A8AA8867C1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03B31D47-0946-4F07-B35F-A8AA8867C1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B549A30F-1A51-4293-9A00-45856A0C364D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B549A30F-1A51-4293-9A00-45856A0C364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B549A30F-1A51-4293-9A00-45856A0C364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B549A30F-1A51-4293-9A00-45856A0C364D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A8AD9886-962E-4264-9A52-8F07B5C8E78E}
+		SolutionGuid = {1C4830F1-3812-4EE5-BE77-2469C9861C1E}
 	EndGlobalSection
 EndGlobal
