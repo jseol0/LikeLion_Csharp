@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\LikeLion7_quest\LikeLion7_quest\bin\Debug\LikeLion7_quest.exe.config
+C:\Users\wodb0\LikeLion\LikeLion7_quest\LikeLion7_quest\bin\Debug\LikeLion7_quest.exe
+C:\Users\wodb0\LikeLion\LikeLion7_quest\LikeLion7_quest\bin\Debug\LikeLion7_quest.pdb
+C:\Users\wodb0\LikeLion\LikeLion7_quest\LikeLion7_quest\obj\Debug\LikeLion7_quest.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\LikeLion7_quest\LikeLion7_quest\obj\Debug\LikeLion7_quest.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\LikeLion7_quest\LikeLion7_quest\obj\Debug\LikeLion7_quest.exe
+C:\Users\wodb0\LikeLion\LikeLion7_quest\LikeLion7_quest\obj\Debug\LikeLion7_quest.pdb

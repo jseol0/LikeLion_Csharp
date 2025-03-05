@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\LikeLion8_Inheritance\LikeLion8_Inheritance\bin\Debug\LikeLion8_Inheritance.exe.config
+C:\Users\wodb0\LikeLion\LikeLion8_Inheritance\LikeLion8_Inheritance\bin\Debug\LikeLion8_Inheritance.exe
+C:\Users\wodb0\LikeLion\LikeLion8_Inheritance\LikeLion8_Inheritance\bin\Debug\LikeLion8_Inheritance.pdb
+C:\Users\wodb0\LikeLion\LikeLion8_Inheritance\LikeLion8_Inheritance\obj\Debug\LikeLion8_Inheritance.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\LikeLion8_Inheritance\LikeLion8_Inheritance\obj\Debug\LikeLion8_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\LikeLion8_Inheritance\LikeLion8_Inheritance\obj\Debug\LikeLion8_Inheritance.exe
+C:\Users\wodb0\LikeLion\LikeLion8_Inheritance\LikeLion8_Inheritance\obj\Debug\LikeLion8_Inheritance.pdb
