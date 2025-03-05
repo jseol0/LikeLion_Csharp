@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\basic_day2\basic_day2\bin\Debug\basic_day2.exe.config
+C:\Users\wodb0\LikeLion\basic_day2\basic_day2\bin\Debug\basic_day2.exe
+C:\Users\wodb0\LikeLion\basic_day2\basic_day2\bin\Debug\basic_day2.pdb
+C:\Users\wodb0\LikeLion\basic_day2\basic_day2\obj\Debug\basic_day2.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\basic_day2\basic_day2\obj\Debug\basic_day2.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\basic_day2\basic_day2\obj\Debug\basic_day2.exe
+C:\Users\wodb0\LikeLion\basic_day2\basic_day2\obj\Debug\basic_day2.pdb
