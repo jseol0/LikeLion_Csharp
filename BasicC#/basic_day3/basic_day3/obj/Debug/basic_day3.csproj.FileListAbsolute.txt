@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\BasicC#\basic_day3\basic_day3\bin\Debug\basic_day3.exe.config
+C:\Users\wodb0\LikeLion\BasicC#\basic_day3\basic_day3\bin\Debug\basic_day3.exe
+C:\Users\wodb0\LikeLion\BasicC#\basic_day3\basic_day3\bin\Debug\basic_day3.pdb
+C:\Users\wodb0\LikeLion\BasicC#\basic_day3\basic_day3\obj\Debug\basic_day3.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\BasicC#\basic_day3\basic_day3\obj\Debug\basic_day3.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\BasicC#\basic_day3\basic_day3\obj\Debug\basic_day3.exe
+C:\Users\wodb0\LikeLion\BasicC#\basic_day3\basic_day3\obj\Debug\basic_day3.pdb
