@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|c:\\users\\wodb0\\likelion\\likelion9_2\\likelion9_2\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|solutionrelative:likelion9_2\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|c:\\users\\wodb0\\likelion\\likelion9_2\\likelion9_2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|solutionrelative:likelion9_2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|c:\\users\\wodb0\\likelion\\likelion9_2\\likelion9_2\\gamechaaracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|solutionrelative:likelion9_2\\gamechaaracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|c:\\users\\wodb0\\likelion\\likelion9_2\\likelion9_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D158FC9-2DBF-4345-81E5-9F0E8588D97C}|LikeLion9_2\\LikeLion9_2.csproj|solutionrelative:likelion9_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\Warrior.cs",
+              "RelativeDocumentMoniker": "LikeLion9_2\\Warrior.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\Warrior.cs",
+              "RelativeToolTip": "LikeLion9_2\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:42:15.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\Mage.cs",
+              "RelativeDocumentMoniker": "LikeLion9_2\\Mage.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\Mage.cs",
+              "RelativeToolTip": "LikeLion9_2\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:34:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameChaaracter.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\GameChaaracter.cs",
+              "RelativeDocumentMoniker": "LikeLion9_2\\GameChaaracter.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\GameChaaracter.cs",
+              "RelativeToolTip": "LikeLion9_2\\GameChaaracter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:25:04.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion9_2\\Program.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion\\LikeLion9_2\\LikeLion9_2\\Program.cs",
+              "RelativeToolTip": "LikeLion9_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:24:05.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
