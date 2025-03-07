@@ -1,0 +1,7 @@
+C:\Users\wodb0\LikeLion\TEXTRPG_practice\TEXTRPG_practice\obj\Debug\TEXTRPG_practice.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion\TEXTRPG_practice\TEXTRPG_practice\obj\Debug\TEXTRPG_practice.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion\TEXTRPG_practice\TEXTRPG_practice\bin\Debug\TEXTRPG_practice.exe.config
+C:\Users\wodb0\LikeLion\TEXTRPG_practice\TEXTRPG_practice\bin\Debug\TEXTRPG_practice.exe
+C:\Users\wodb0\LikeLion\TEXTRPG_practice\TEXTRPG_practice\bin\Debug\TEXTRPG_practice.pdb
+C:\Users\wodb0\LikeLion\TEXTRPG_practice\TEXTRPG_practice\obj\Debug\TEXTRPG_practice.exe
+C:\Users\wodb0\LikeLion\TEXTRPG_practice\TEXTRPG_practice\obj\Debug\TEXTRPG_practice.pdb
