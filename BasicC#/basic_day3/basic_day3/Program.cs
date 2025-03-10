@@ -6,6 +6,52 @@ using System.Threading.Tasks;
 
 namespace basic_day3
 {
+    public class Board
+    {
+        public int[,] board = new int[3, 3] {
+            { 0, 0, 0},
+            { 0, 0, 0},
+            { 0, 0, 0}
+        };
+
+        public void InputNum(int x, int y) { board[x, y] = 1; }
+
+        public void RenderBoard()
+        {
+            for (int i = 0; i < board.GetLength(0); i++)
+            {
+                for (int j = 0; j < board.GetLength(1); j++)
+                {
+                    Console.Write($"{board[i, j]}\t");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        public bool CheckBingo()
+        {
+            int countX = 0;
+            int countY = 0;
+
+            for (int i = 0; i < board.GetLength(0); i++)
+            {
+                for (int j = 0; j < board.GetLength(1); j++)
+                {
+                    if (board[i, j] == 1)
+                        countX++;
+                    if (board[j, i] == 1)
+                        countY++;
+                }
+                if (countX == 3 || countY == 3)
+                    return true;
+                countX = 0;
+                countY = 0;
+            }
+
+            return false;
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
@@ -68,7 +114,7 @@ namespace basic_day3
             //}
 
             // 1차원 배열에 저장된 정수를 역순으로 출력하는 프로그램을 만들어주세요
-            List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+            //List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
             //List<int> numbers = new List<int>();
             //numbers.Add(1);
             //numbers.Add(2);
@@ -178,19 +224,33 @@ namespace basic_day3
             //}
 
             // 3*3 빙고
-            int[,] board = new int[3, 3];
+            Board board = new Board();
 
             int x, y;
             bool isBingo = false;
             while (!isBingo)
             {
+                Console.Clear();
+
+                board.RenderBoard();
+
                 Console.WriteLine("x, y 값을 입력해 주세요");
                 Console.Write("x : ");
                 x = int.Parse(Console.ReadLine());
                 Console.Write("y : ");
                 y = int.Parse(Console.ReadLine());
 
+                board.InputNum(x, y);
 
+                isBingo = board.CheckBingo();
+                if (isBingo == true)
+                {
+                    Console.Clear();
+                    board.RenderBoard();
+                    Console.WriteLine("========================");
+                    Console.WriteLine("성공!!");
+                    break;
+                }
             }
         }
     }
