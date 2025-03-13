@@ -5,3 +5,10 @@ C:\Users\wodb0\LikeLion\LikeLion5\LikeLion5\obj\Debug\LikeLion5.csproj.AssemblyR
 C:\Users\wodb0\LikeLion\LikeLion5\LikeLion5\obj\Debug\LikeLion5.csproj.CoreCompileInputs.cache
 C:\Users\wodb0\LikeLion\LikeLion5\LikeLion5\obj\Debug\LikeLion5.exe
 C:\Users\wodb0\LikeLion\LikeLion5\LikeLion5\obj\Debug\LikeLion5.pdb
+C:\Users\wodb0\LikeLion_Csharp\LikeLion5\LikeLion5\bin\Debug\LikeLion5.exe.config
+C:\Users\wodb0\LikeLion_Csharp\LikeLion5\LikeLion5\bin\Debug\LikeLion5.exe
+C:\Users\wodb0\LikeLion_Csharp\LikeLion5\LikeLion5\bin\Debug\LikeLion5.pdb
+C:\Users\wodb0\LikeLion_Csharp\LikeLion5\LikeLion5\obj\Debug\LikeLion5.csproj.AssemblyReference.cache
+C:\Users\wodb0\LikeLion_Csharp\LikeLion5\LikeLion5\obj\Debug\LikeLion5.csproj.CoreCompileInputs.cache
+C:\Users\wodb0\LikeLion_Csharp\LikeLion5\LikeLion5\obj\Debug\LikeLion5.exe
+C:\Users\wodb0\LikeLion_Csharp\LikeLion5\LikeLion5\obj\Debug\LikeLion5.pdb

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|c:\\users\\wodb0\\likelion_csharp\\basicc#\\omok\\omok\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|solutionrelative:omok\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|c:\\users\\wodb0\\likelion_csharp\\basicc#\\omok\\omok\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|solutionrelative:omok\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|c:\\users\\wodb0\\likelion_csharp\\basicc#\\omok\\omok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|solutionrelative:omok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|c:\\users\\wodb0\\likelion_csharp\\basicc#\\omok\\omok\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45445A15-E9A9-4757-8362-70BF6CCA0E0E}|Omok\\Omok.csproj|solutionrelative:omok\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\AIPlayer.cs",
+              "RelativeDocumentMoniker": "Omok\\AIPlayer.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\AIPlayer.cs",
+              "RelativeToolTip": "Omok\\AIPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:00:36.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\GameManager.cs",
+              "RelativeDocumentMoniker": "Omok\\GameManager.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\GameManager.cs",
+              "RelativeToolTip": "Omok\\GameManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:59:59.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\Board.cs",
+              "RelativeDocumentMoniker": "Omok\\Board.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\Board.cs",
+              "RelativeToolTip": "Omok\\Board.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvycAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:40:14.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\Program.cs",
+              "RelativeDocumentMoniker": "Omok\\Program.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion_Csharp\\BasicC#\\Omok\\Omok\\Program.cs",
+              "RelativeToolTip": "Omok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:40:00.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

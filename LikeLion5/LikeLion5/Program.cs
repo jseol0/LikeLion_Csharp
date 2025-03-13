@@ -98,24 +98,30 @@ namespace LikeLion5
 
         static void Main(string[] args)
         {
-            Greet();
-            Greet("철수");
+            //Greet();
+            //Greet("철수");
 
-            Console.WriteLine(Multiply(3, 4));
-            Console.WriteLine(Multiply(2.5, 4.5));
+            //Console.WriteLine(Multiply(3, 4));
+            //Console.WriteLine(Multiply(2.5, 4.5));
 
-            int q, r;
-            Divide(10, 3, out q, out r);
-            Console.WriteLine($"몫 : {q}, 나머지 : {r}");
+            //int q, r;
+            //Divide(10, 3, out q, out r);
+            //Console.WriteLine($"몫 : {q}, 나머지 : {r}");
 
-            int value = 5;
-            Increase(ref value);
-            Console.WriteLine(value);
+            //int value = 5;
+            //Increase(ref value);
+            //Console.WriteLine(value);
 
-            Console.WriteLine(Sum(1, 2, 3));
+            //Console.WriteLine(Sum(1, 2, 3));
 
-            Console.WriteLine(Add1(3, 5));
-            Console.WriteLine(Add2(3, 5));
+            //Console.WriteLine(Add1(3, 5));
+            //Console.WriteLine(Add2(3, 5));
+
+            List<int> numbers = new List<int>() { 1, 2, 3, 4, 5 };
+            numbers.RemoveAt(2);
+
+            foreach (var a in numbers)
+                Console.WriteLine(a);
         }
     }
 }

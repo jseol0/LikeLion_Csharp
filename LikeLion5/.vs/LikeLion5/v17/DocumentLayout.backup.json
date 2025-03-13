@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wodb0\\LikeLion\\LikeLion5\\",
+  "WorkspaceRootPath": "C:\\Users\\wodb0\\LikeLion_Csharp\\LikeLion5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{547292CF-FB9C-40DE-97CA-2A250021FF83}|LikeLion5\\LikeLion5.csproj|c:\\users\\wodb0\\likelion\\likelion5\\likelion5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{547292CF-FB9C-40DE-97CA-2A250021FF83}|LikeLion5\\LikeLion5.csproj|c:\\users\\wodb0\\likelion_csharp\\likelion5\\likelion5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{547292CF-FB9C-40DE-97CA-2A250021FF83}|LikeLion5\\LikeLion5.csproj|solutionrelative:likelion5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion\\LikeLion5\\LikeLion5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wodb0\\LikeLion_Csharp\\LikeLion5\\LikeLion5\\Program.cs",
               "RelativeDocumentMoniker": "LikeLion5\\Program.cs",
-              "ToolTip": "C:\\Users\\wodb0\\LikeLion\\LikeLion5\\LikeLion5\\Program.cs",
+              "ToolTip": "C:\\Users\\wodb0\\LikeLion_Csharp\\LikeLion5\\LikeLion5\\Program.cs",
               "RelativeToolTip": "LikeLion5\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAgwHUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwHsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:57:25.247Z",
               "EditorCaption": ""
